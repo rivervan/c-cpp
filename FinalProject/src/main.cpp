@@ -228,7 +228,7 @@ while (running) {
     // Clean up
     SDL_Quit();
 
-    std::cout<<"FIN DEL PROGRAMA" << std::endl;
+    std::cout<<"FIN DEL PROGRAMA... bye" << std::endl;
      
     return 0;
 
